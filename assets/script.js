@@ -1,3 +1,4 @@
+// display time withouht delay whn refresh page or page load 
 $("#todayDay").text(moment().format("Do MMMM YYYY, h:mm:ss a"));
 
 // this function displays the current date and time
