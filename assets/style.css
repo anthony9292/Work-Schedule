@@ -1,3 +1,5 @@
+/*vbody and html styling*/
+
 body { 
 
 font-family: 'Times New Roman', Times, serif;
@@ -11,6 +13,8 @@ body, html {
   height: 100%;
 }
 
+
+/*header styling*/
 header {
   text-align: center;
   padding: 20px;
@@ -28,10 +32,10 @@ header {
 p .today { 
 
 margin-left: 24px;
-
-
 }
 
+
+/*box styling*/
 
 textarea{ 
 background: transparent;
@@ -84,6 +88,7 @@ color: white;
   color:  white;
 }
 
+/*buttom styling*/
 .saveBtn {
  border-left: 1-x solid black;
  border-top-right-radius: 15px;
@@ -100,6 +105,8 @@ color: white;
   transition: all .5s ease-in-out;
   color: rgb(74, 251, 251);
 }
+
+/* footer styling */
 
 footer {
   position: none;
