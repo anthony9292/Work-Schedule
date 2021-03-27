@@ -1,4 +1,4 @@
-/*vbody and html styling*/
+/*body and html styling*/
 
 body { 
 
@@ -110,6 +110,7 @@ color: white;
 
 footer {
   position: none;
+text-emphasis-color: white;
   height: 100px;
   bottom: 0;
   width: 100%;

@@ -10,7 +10,7 @@ var time = $(this).parent().attr("id");
 //sets the items into local storage.
 localStorage.setItem(time, text); 
 })
-//laod any save from the saved data from LocalStorage
+//load any save from the saved data from LocalStorage
 $("#hour8 .description").val(localStorage.getItem("hour8"));
     $("#hour9 .description").val(localStorage.getItem("hour9"));
     $("#hour10 .description").val(localStorage.getItem("hour10"));
