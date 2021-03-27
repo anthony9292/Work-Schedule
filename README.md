@@ -20,7 +20,7 @@ Anthony Ndegwa
 
 *****images************
 ![work-schedule on server pic](livewebpage.PNG)
-![Index pic](index.PNG)
+![Index pic](html.png)
 ![script code pic](script.PNG)
 ![css code pic](css.PNG)
 
